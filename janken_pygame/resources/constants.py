@@ -10,7 +10,7 @@ from os import path
 
 # Strings.
 TITLE = 'JANKEN'
-DESCRIPTION = 'Turn based game of Rock, Paper, Scissors.'
+DESCRIPTION = 'A game of Rock, Paper, Scissors.'
 CHOICE = 'Make your choice!'
 LOW_MP = 'Low MP'
 WON = 'Won'
